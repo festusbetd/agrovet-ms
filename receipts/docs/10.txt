@@ -1,0 +1,2 @@
+Amoxicilin;High;2;1;50;50
+TOTAL;;;;;50
